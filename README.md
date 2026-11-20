@@ -3,19 +3,22 @@
 
 # Kurt Ashe Rey. Intal
 
-This is my paragraph. ...
+BOOM! 💥 Pasabog?  Lindol? 😱 Hindi, kami lang ‘yon. 😮‍💨 
+I’m Kurt Ashe, From Pinatubo! Hindi mainit ang ulo, mainit lang sa picture! 💁‍♀️🔥
+Just like Mount Pinatubo ⛰️, kami’y tahimik lang sa umpisa 🤫, pero kaya naming yanigin ang mundo. 🫨
+We were named after a volcano 🌋 not by being loud 📢 but by making an impact. 😎
+We may seem calm 😌, but behind our silence is a fire 🔥 waiting for the right moment to erupt 💥 into something unforgettable. 😉 
+Kaya kung nagtataka kayo 🤨 kung sino’ng magpapasaya 🥳 sa school year na ‘to, look no further — kasi kami ang magdadala ng pasabog. 🤯
+
+
 
 #
-
-
-
 # Kianne Margarette Q. Quiambao
 paragraph
 
+
+
 #
-
-
-
 # Yazmin Kassandra E. Mundo
 pa is ra is graph
 
