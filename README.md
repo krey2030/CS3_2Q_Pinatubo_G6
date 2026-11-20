@@ -10,6 +10,7 @@ We were named after a volcano 🌋 not by being loud 📢 but by making an impac
 We may seem calm 😌, but behind our silence is a fire 🔥 waiting for the right moment to erupt 💥 into something unforgettable. 😉 
 Kaya kung nagtataka kayo 🤨 kung sino’ng magpapasaya 🥳 sa school year na ‘to, look no further — kasi kami ang magdadala ng pasabog. 🤯
 
+✍️: Miel²⁹ & Alchi²⁹
 
 
 #
