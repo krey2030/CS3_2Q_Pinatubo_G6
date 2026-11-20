@@ -13,7 +13,7 @@ Kaya kung nagtataka kayo 🤨 kung sino’ng magpapasaya 🥳 sa school year na 
 ✍️: Miel²⁹ & Alchi²⁹
 
 (temporary)
-y=If(x<1, 0, If(1<x<3, x-1, (x-2)^(2)))
+f: y=If(x≤1, 0, If(1<x<3, ((x-1)/(2)), If(3≤x≤5, (x-2.75)^(2)+0.9375, sqrt(x-5)+6)))
 
 #
 # Kianne Margarette Q. Quiambao
