@@ -23,6 +23,8 @@ Kaya kung nagtataka kayo 🤨 kung sino’ng magpapasaya 🥳 sa school year na 
 
 
 #
-# Yazmin Kassandra E. Mundo
-pa is ra is graph
+#26 Yazmin Kassandra E. Mundo
+pano nag-eexchange gift ang mga dentist? edi nagbubunutan sila hahaha
+
+
 
