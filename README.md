@@ -19,7 +19,7 @@ This is CN-28 of 9-Pinatubo
 
 
 #
-#26 Yazmin Kassandra E. Mundo
+# #26 Yazmin Kassandra E. Mundo
 pano nag-eexchange gift ang mga dentist? edi nagbubunutan sila hahaha
 
 
