@@ -44,7 +44,7 @@ sin = { 0:0,
     }
 """
 by:Tau Comlines(color,effect)+Spider Commuons(sin)
-Kurt Ashe Rey. Intal
+under Kurt Ashe Rey. Intal
 
 reference symbols:※【】「」『』※／•—×→
 """
