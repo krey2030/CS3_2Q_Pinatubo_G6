@@ -1,3 +1,4 @@
+#By Kurt Ashe R. Intal
 def color(Hex,BG): #color UPDATED
     if Hex[0] == "#":#makes it realistic and raises error
         try:Hex[7]#should only be 3 or 6 digits
