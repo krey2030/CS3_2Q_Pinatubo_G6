@@ -1,4 +1,4 @@
-"""
+"""By Kurt Ashe Rey. Intal
 description example:
 ※Text effects, time module, and os module for emphasis and style
 ※Reuses FA3_Pinatubo_Rey.Intal.py and upgrades it
